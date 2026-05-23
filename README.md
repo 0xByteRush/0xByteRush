@@ -7,5 +7,5 @@
 -  I’m looking to collaborate on Everything
 -  I’m looking for help with Nothing
 -  Ask me about Anything
--  How to reach me: [LinkedIn] (https://www.linkedin.com/in/yaseen-alyaseen/) 
-- ⚡ Fun fact: Roses are red Violtes are blue
+-  How to reach me: [LinkedIn](https://www.linkedin.com/in/yaseen-alyaseen/) 
+- ⚡ Fun fact: Roses are red, violins are blue
