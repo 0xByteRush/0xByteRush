@@ -10,11 +10,12 @@ Computer engineering student based in Dhahran, Saudi Arabia. I mostly work close
 | [16-bit Pipelined RISC Processor](https://github.com/0xByteRush/16-bit-Pipelined-RISC-Processor) | 5-stage pipelined CPU in Logisim-Evolution with a custom ISA, hazard detection and forwarding. |
 | [WhatsApp Scheduler](https://github.com/0xByteRush/whatsapp-scheduler) | Self-hosted scheduler for messages from your own WhatsApp number: repeats, groups, web UI, Docker. |
 | [Smart Parking System](https://github.com/0xByteRush/Smart-Parking-System) | Verilog parking controller for the Nexys A7 with debounced inputs, a 7-segment display and a self-checking testbench. |
+| [LED Pong](https://github.com/0xByteRush/coe306-led-pong) | Two-player Pong on an mbed LPC1768 in C, written both with polling and fully interrupt-driven, with 7-segment scores and a buzzer. |
 | [Flying Stars](https://github.com/0xByteRush/Flying-Stars) | JavaFX arcade game with a persistent leaderboard. |
 
 ### Tools
 
-Verilog · Quartus / Platform Designer · Xilinx ISE · Logisim · C · Java · JavaScript / Node.js · Python · Git
+Verilog · Quartus / Platform Designer · Xilinx ISE · Logisim · C / ARM Cortex-M (LPC1768) · Java · JavaScript / Node.js · Python · Git
 
 ### Contact
 
